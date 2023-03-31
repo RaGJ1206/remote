@@ -3,3 +3,4 @@ third - my branch
 fourth - my branch
 기능 속성 1
 속성 패치
+hot fix commit 메세지
